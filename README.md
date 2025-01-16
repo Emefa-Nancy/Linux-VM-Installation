@@ -74,7 +74,7 @@ How to Run This Project
 git clone https://github.com/Emefa-Nancy/Linux-VM-Installation.git
 
 
-2. Follow the steps in the report (pdf below) to replicate the process.
+2. Follow the steps in the report [here] (report.pdf) to replicate the process.
 
 
 
